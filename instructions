@@ -1,2 +1,7 @@
 this is an instructions file
+<<<<<<< ours
 Local changes to instructions File
+||||||| base
+=======
+changes on the website. 
+>>>>>>> theirs
